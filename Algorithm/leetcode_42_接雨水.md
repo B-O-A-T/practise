@@ -10,7 +10,7 @@
 输出: 6
 
 ![image](https://github.com/B-O-A-T/practise/blob/master/Algorithm/picture/rainwatertrap.png)
-···
+```
 class Solution {
 public:
     int trap(vector<int>& height) {
@@ -30,4 +30,4 @@ public:
     return ans;
     }
 };
-···
+```
